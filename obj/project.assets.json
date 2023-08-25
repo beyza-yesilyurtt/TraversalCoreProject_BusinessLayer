@@ -3086,19 +3086,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Beyza\\.nuget\\packages\\": {}
+    "C:\\Users\\Beyza Yeşilyurt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beyza\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Beyza\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\Beyza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beyza\\source\\repos\\BusinessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\BusinessLayer\\BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\Beyza Yeşilyurt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Beyza Yeşilyurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3112,11 +3112,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Beyza\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Beyza\\source\\repos\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -3176,7 +3176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
